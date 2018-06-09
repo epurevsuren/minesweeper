@@ -1,0 +1,30 @@
+C:\Users\VergiL\Desktop\WP\Lab07\Minesweeper\Example\bin\Debug\Minesweeper.exe
+C:\Users\VergiL\Desktop\WP\Lab07\Minesweeper\Example\bin\Debug\Minesweeper.pdb
+C:\Users\VergiL\Desktop\WP\Lab07\Minesweeper\Example\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\VergiL\Desktop\WP\Lab07\Minesweeper\Example\obj\x86\Debug\Example.Minesweeper.resources
+C:\Users\VergiL\Desktop\WP\Lab07\Minesweeper\Example\obj\x86\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\VergiL\Desktop\WP\Lab07\Minesweeper\Example\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\VergiL\Desktop\WP\Lab07\Minesweeper\Example\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\VergiL\Desktop\WP\Lab07\Minesweeper\Example\obj\x86\Debug\Minesweeper.exe
+C:\Users\VergiL\Desktop\WP\Lab07\Minesweeper\Example\obj\x86\Debug\Minesweeper.pdb
+C:\Users\VergiL\Desktop\WP\Lab07\Minesweeper\Minesweeper\obj\x86\Debug\Minesweeper.exe
+C:\Users\VergiL\Desktop\WP\Lab07\Minesweeper\Minesweeper\obj\x86\Debug\Minesweeper.pdb
+C:\Users\VergiL\Desktop\WP\Lab07\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\VergiL\Desktop\WP\Lab07\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\VergiL\Desktop\WP\Lab07\Minesweeper\Minesweeper\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\VergiL\Desktop\WP\Lab07\Minesweeper\Minesweeper\obj\x86\Debug\Example.Minesweeper.resources
+C:\Users\VergiL\Desktop\WP\Lab07\Minesweeper\Minesweeper\obj\x86\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\VergiL\Desktop\WP\Lab07\Minesweeper\Minesweeper\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\VergiL\Desktop\WP\Lab07\Minesweeper\Minesweeper\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\VergiL\Desktop\WP\Lab07\Minesweeper\obj\x86\Debug\Minesweeper.exe
+C:\Users\VergiL\Desktop\WP\Lab07\Minesweeper\obj\x86\Debug\Minesweeper.pdb
+C:\Users\VergiL\Desktop\WP\Lab07\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\VergiL\Desktop\WP\Lab07\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\VergiL\Desktop\WP\Lab07\Minesweeper\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\VergiL\Desktop\WP\Lab07\Minesweeper\obj\x86\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\VergiL\Desktop\WP\Lab07\Minesweeper\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\VergiL\Desktop\WP\Lab07\Minesweeper\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\VergiL\Desktop\WP\Lab07\Minesweeper\obj\x86\Debug\Minesweeper.Minesweeper.resources
+C:\Users\VergiL\Desktop\WP\Lab07\Minesweeper\obj\x86\Debug\Minesweeper.Form2.resources
+D:\Documents\My School\Windows Programming\Lab07\Minesweeper\obj\x86\Debug\Minesweeper.exe
+D:\Documents\My School\Windows Programming\Lab07\Minesweeper\obj\x86\Debug\Minesweeper.pdb
